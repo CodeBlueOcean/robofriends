@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://github.com/CodeBlueOcean",
+  "homepage": "https://github.com/CodeBlueOcean/robofriends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
